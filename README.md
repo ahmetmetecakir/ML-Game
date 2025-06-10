@@ -61,4 +61,4 @@ This project is part of an academic graduation project. Not intended for commerc
 
 **Name:** [Ahmet Mete Çakır]  
 **LinkedIn:** [https://www.linkedin.com/in/ahmet-mete-%C3%A7ak%C4%B1r-966389202/]
-**Email:** ahmet0mete@outlook.com 
+**Email:** [ahmet0mete@outlook.com]
